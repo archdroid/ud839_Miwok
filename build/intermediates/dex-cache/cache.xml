@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_113d43f9003c68ff318fdfbc577ff8e2b8bc2f09\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_db08032615a0482bec397ce91e5acf72fc730c5e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cbc70513d3cd833d2f7b1f54f15db311f183be83">
+        <dex dex="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_abfb0f1fd8c2808501f9a1ba7b5d0721409b9b48\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_fee6ce9b8d57a56cb5fd35fb9a42b5f76692d888\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_dd34619a60e9e1faa086a3dab1b6d8a9ba389660\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_de9b4572aa116747b442a74516fe58ce0bca4442\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9d480d576f91b390a3da73e92ce0036fe50328fd">
+        <dex dex="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dfb5eb2f4b46fe97d0e36b8d07773dad868c80bf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_2307b8a61d9d9e31fe6439052bdf390ff50fa5ce\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_f30d0fef857ec3b57c0658a1fde1e957c1aa2357\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\ad024433\Documents\GitHub\ud839_Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_f2af8f0042570b78c58913aaafe302234ccb7852\classes.dex" />
+    </item>
+
+</items>
